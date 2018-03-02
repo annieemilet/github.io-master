@@ -1,3 +1,0 @@
-# bernoraj.github.io
-
-mywebsite
